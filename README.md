@@ -1,6 +1,8 @@
 # General Election to Parliamentary Constituencies: Trends & Results June-2024
 ![Election Result 2024 Lok Sabha](https://github.com/Krithii06/Lok-Sabha-Election-Data-Analysis-/assets/115915867/b3ce7dc1-3ab5-4937-826a-a6bd262f64ca)
 
+Uploading election-result-2024-data-analysis-using-power-bi_soSvS4dH.mp4…
+
 
 ## Overview
 
