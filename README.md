@@ -1,6 +1,10 @@
 # General Election to Parliamentary Constituencies: Trends & Results June-2024
 ![Election Result 2024 Lok Sabha](https://github.com/Krithii06/Lok-Sabha-Election-Data-Analysis-/assets/115915867/b3ce7dc1-3ab5-4937-826a-a6bd262f64ca)
 
+
+https://github.com/Krithii06/Lok-Sabha-Election-Data-Analysis-/assets/115915867/1c153ea9-36ab-4fcc-bd46-071b989e89a9
+
+
 ## Overview
 
 This repository contains a Power BI analysis of the General Election to Parliamentary Constituencies held in June 2024. The analysis provides visual insights into the election results, highlighting key metrics and trends. The visualizations include various charts and graphs that depict the distribution of seats won by different political parties, the number of candidates leading or winning in different regions, and more.
